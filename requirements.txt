@@ -6,3 +6,11 @@ Jinja2==3.1.2
 MarkupSafe==2.1.2
 mysql-connector==2.2.9
 Werkzeug==2.2.2
+language_tool_python
+nltk
+deepmultilingualpunctuation
+happytransformer
+sentence_transformers
+pandas
+numpy
+spacy
